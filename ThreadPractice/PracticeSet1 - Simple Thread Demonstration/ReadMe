@@ -1,0 +1,12 @@
+1. A Count class with a count variable.
+2. Two threads: Adder and Subtractor.
+3. Both take the same Count object.
+4. Both iterate from 1 to 100, incrementing and decrementing the shared variable respectively.
+5. Add a delay (e.g., Thread.sleep(10)) to increase the chance of race conditions.
+6. Then compare the ideal vs. actual output.
+
+The final value in Main Class from System.out.println for count can not be determined
+because of the race condition
+
+Ideal Output : 0
+Actual Output : Can not be determined, often not 0.

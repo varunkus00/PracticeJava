@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Practice.iml" filepath="$PROJECT_DIR$/Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPractice/PracticeSet1 - Simple Thread Demonstration/PracticeSet1 - Simple Thread Demonstration.iml" filepath="$PROJECT_DIR$/ThreadPractice/PracticeSet1 - Simple Thread Demonstration/PracticeSet1 - Simple Thread Demonstration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPractice/PracticeSet2 - Executor Service Demonstration/PracticeSet2 - Executor Service Demonstration.iml" filepath="$PROJECT_DIR$/ThreadPractice/PracticeSet2 - Executor Service Demonstration/PracticeSet2 - Executor Service Demonstration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Serializable/Serializable.iml" filepath="$PROJECT_DIR$/Serializable/Serializable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ThreadPractice/ThreadPractice.iml" filepath="$PROJECT_DIR$/ThreadPractice/ThreadPractice.iml" />
+    </modules>
+  </component>
+</project>
