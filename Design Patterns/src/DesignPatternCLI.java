@@ -8,8 +8,10 @@ import DecoratorDesignPattern.SugarDecorator;
 import FacadeDesignPattern.FacadePatternClient;
 import FactoryDesignPattern.FactoryPatternSupportive;
 import FlyWeightDesignPattern.FlyWeightPatternClient;
+import ObserverDesignPattern.ObserverPatternClient;
 import PrototypeDesignPattern.PrototypePatternSupportive;
 import SingletonDesignPattern.SingletonPatternSupportive;
+import StrategyDesignPattern.StrategyPatternClientClass;
 
 import java.util.Scanner;
 
@@ -94,6 +96,20 @@ public class DesignPatternCLI {
                     //FlyWeight Design Pattern
                     {
                         FlyWeightPatternClient.call();
+                    }
+                    break;
+                case 9:
+                    System.out.println("Strategy Design Pattern");
+                    //FlyWeight Design Pattern
+                    {
+                        StrategyPatternClientClass.call();
+                    }
+                    break;
+                case 10:
+                    System.out.println("Observer Design Pattern");
+                    //FlyWeight Design Pattern
+                    {
+                        ObserverPatternClient.call();
                     }
                     break;
                 default:

@@ -9,6 +9,8 @@ public class DesignPatternsMenu {
         System.out.println("6. Facade Design Pattern");
         System.out.println("7. Decorator Design Pattern");
         System.out.println("8. FlyWeight Design Pattern");
+        System.out.println("9. Strategy Design Pattern");
+        System.out.println("10. Observer Design Pattern");
         System.out.println("0. Exit");
     }
 
